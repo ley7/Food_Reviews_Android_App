@@ -1,1 +1,3 @@
-
+Run app:
+npm install
+react-native run-android
